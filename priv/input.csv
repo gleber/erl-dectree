@@ -1,0 +1,17 @@
+"X","Outlook","Temp","Humidity","Windy","Class"
+int,str,int,int,bool,str
+ign,ind,ind,ind,ind,dep
+1,"sunny",75,70,"T","P"
+2,"sunny",80,90,"T","N"
+3,"sunny",85,85,"F","N"
+4,"sunny",72,95,"F","N"
+5,"sunny",69,70,"F","P"
+6,"overcast",72,90,"T","P"
+7,"overcast",83,78,"F","P"
+8,"overcast",64,65,"T","P"
+9,"overcast",81,75,"F","P"
+10,"rain",71,80,"T","N"
+11,"rain",65,70,"T","N"
+12,"rain",75,80,"F","P"
+13,"rain",68,80,"F","P"
+14,"rain",70,96,"F","P"
