@@ -1,0 +1,11 @@
+"X","Name","Hair","Height","Weight","Lotion","Result"
+int,str,str,str,str,bool,str
+ign,ign,ind,ind,ind,ind,dep
+1,"Sarah","blonde","average","light","no","P"
+2,"Dana","blonde","tall","average","yes","N"
+3,"Alex","brown","short","average","yes","N"
+4,"Annie","blonde","short","average","no","P"
+5,"Emily","red","average","heavy","no","P"
+6,"Pete","brown","tall","heavy","no","N"
+7,"John","brown","average","heavy","no","N"
+8,"Katie","blonde","short","light","yes","N"
